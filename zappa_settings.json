@@ -1,0 +1,12 @@
+{
+    "production": {
+        "app_function": "app.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "notebooks-url-shortener",
+        "runtime": "python3.6",
+        "s3_bucket": "notebooks-url-shortener",
+        "certificate_arn": "arn:aws:acm:us-east-1:688256594416:certificate/b1bc0be6-7972-43bf-ad7a-fa0c853bdaa8",
+        "domain": "i.notebooks.ai"
+    }
+}
